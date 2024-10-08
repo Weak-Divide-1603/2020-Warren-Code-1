@@ -59490,7 +59490,7 @@ campaignTrail_temp.jet_data = [{
     "banner_enabled": true,
     "banner_data": {
         "canName": "Warren",
-        "runName": "Klobuchar",
+        "runName": "Sanders",
         "runImage": "https://sourcewatch.org/images/thumb/0/0a/Bernie_Sanders19.jpg/600px-Bernie_Sanders19.jpg",
         "canImage": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Elizabeth_Warren%2C_official_portrait%2C_114th_Congress.jpg"
     },
